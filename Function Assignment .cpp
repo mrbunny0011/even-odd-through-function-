@@ -4,7 +4,7 @@ void both_No();
 int argument_no();
 void return_no(int i);
 int both(int b);
-
+//. BsCS section (D) AbdulBasit Roll no 26
 int main()
 {
     cout<<"case No One "<<endl;
